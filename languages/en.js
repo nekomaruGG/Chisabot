@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Developed by Nekomarun| Chisa Music v1.2",
+    footer: "Developed by Nekomaru | Chisa Music v1.2",
     ping: {
       description: "Check the bot latency",
       response: "Pinging...",
@@ -279,3 +279,4 @@ module.exports = {
 
 
   
+
