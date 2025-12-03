@@ -15,7 +15,7 @@ module.exports = {
             const youtubeLink = "https://www.youtube.com/@nekomaru";
 
             const embed = new EmbedBuilder()
-                .setColor('#b300ff')
+                .setColor('#66ffff')
                 .setAuthor({
                     name: lang.support.embed.authorName,
                     iconURL: musicIcons.beats2Icon, 
