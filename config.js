@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Developer: @neko.lua", 
+  activityName: "Developed by @neko.lua", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://dc.gg/posneko",
   embedTimeout: 5, 
